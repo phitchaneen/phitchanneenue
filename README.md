@@ -5,12 +5,17 @@
 
 ---
 
-### About
-2rd-year Information Technology student at Kasetsart University with a strong foundation in web development and database management. Currently seeking a **Software Engineering / Developer Internship** (Available: [ May – August 2027]) to apply technical skills and contribute to real-world projects.
+### Profile
+Information Technology undergraduate student at Kasetsart University with a solid foundation in software development, database management, and problem-solving. Seeking a **Software Engineering Internship** to apply academic knowledge to real-world systems and contribute to a collaborative engineering team.
+
+- **Education:** B.Sc. in Information Technology, Kasetsart University (Expected Graduation: 2029)
+- **Areas of Interest:** Web Application Development, Backend Systems, Database Design
+
 
 ### Technical Skills
-- **Languages:** Python, JavaScript, Java, SQL, HTML/CSS
-- **Frameworks & Tools:** React, Node.js, MySQL, Git, GitHub
+- **Programming Languages:** Python, JavaScript, Java, SQL, HTML5, CSS3
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Databases & Tools:** MySQL, MongoDB, Git, GitHub, Docker (Basic)
   
 ---
 
